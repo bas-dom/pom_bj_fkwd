@@ -8,4 +8,6 @@
   * [一键开采暖](kong-zhi-ce-lve/yi-jian-kai-cai-nuan.md)
   * [采暖系统优化](kong-zhi-ce-lve/cai-nuan-xi-tong-you-hua.md)
   * [一键开机中对一键开FreeCooling的测试](kong-zhi-ce-lve/yi-jian-kai-ji-zhongdui-yi-jian-kai-freecooling-de-ce-shi.md)
+* [点位与通讯问题](dian-wei-yu-tong-xun-wen-ti.md)
+  * [4\#冷机的开关设定、开关反馈](dian-wei-yu-tong-xun-wen-ti/4leng-ji-de-kai-guan-she-ding-3001-kai-guan-fan-kui.md)
 
