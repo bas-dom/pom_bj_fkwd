@@ -10,6 +10,6 @@
   * [一键开机中对一键开FreeCooling的测试](kong-zhi-ce-lve/yi-jian-kai-ji-zhongdui-yi-jian-kai-freecooling-de-ce-shi.md)
 * [点位与通讯问题](dian-wei-yu-tong-xun-wen-ti.md)
   * [4\#冷机的开关设定、开关反馈](dian-wei-yu-tong-xun-wen-ti/4leng-ji-de-kai-guan-she-ding-3001-kai-guan-fan-kui.md)
-* [操作总结](cao-zuo-zong-jie.md)
-  * [2017年8月](cao-zuo-zong-jie/2017nian-8-yue.md)
+* [运维报告](cao-zuo-zong-jie.md)
+  * [2017年8月月报](cao-zuo-zong-jie/2017nian-8-yue.md)
 
